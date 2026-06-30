@@ -1,6 +1,6 @@
 # Danaher Leglocks: *Enter The System* — Study Notes
 
-Structured, drillable study notes for John Danaher's 8-volume instructional ***Leglocks: Enter The System*** (the original "Enter The System" leg-lock series). Each volume has its own notes file; positions are illustrated with **original schematic diagrams** (drawn from scratch — see [Diagrams](#diagrams)).
+Structured, drillable study notes for John Danaher's 8-volume instructional ***Leglocks: Enter The System*** (the original "Enter The System" leg-lock series). Each volume has its own notes file, and each position links out to reputable pages with real photos/video (see [Position reference links](#position-reference-links)).
 
 These notes are written to be **faithful to the source** and **usable at the mat**: principles are separated from techniques, mechanical details are preserved verbatim where they matter, and the Japanese terminology is corrected from the auto-transcript (e.g., *ashi garami*, *kuzushi*, *sankaku*, *juji gatame*).
 
