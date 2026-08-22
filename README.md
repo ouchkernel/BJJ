@@ -1,1 +1,19 @@
-# BJJ
+# BJJ Notes
+
+Study notes built from BJJ instructional videos. Source videos are transcribed with [whisper](https://github.com/openai/whisper), then written up as structured, drillable notes — each lesson gets a **detailed** note (full write-up) and a **quick** note (terse checklist/steps for a fast mat-side refresher).
+
+## Topics
+
+| Directory | Source | Status |
+|---|---|---|
+| [ankle-locks/](ankle-locks/) | *Mastering the Move: The Ankle Lock* (39 lessons) | Complete |
+| [leglocks/](leglocks/) | *Leglocks: Enter The System* (8 volumes) | Complete |
+| [triangles/](triangles/) | TBD | Not started |
+
+Each topic directory has its own `README.md` indexing every lesson with links to both note styles.
+
+## How these are built
+
+See [CLAUDE.md](CLAUDE.md) for the full workflow: dropping in new videos, running `scripts/transcribe.sh`, and the note-writing conventions (naming, structure, what goes in a "detailed" vs. "quick" note).
+
+`.mp4` source videos and raw `.srt` transcripts are kept local only (gitignored) — only the written notes are tracked here.
