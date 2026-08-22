@@ -42,16 +42,18 @@ Steps 1–3 are taught as a **general system**; steps 4–6 are taught inside th
 
 ## Volume index
 
-| # | File | What it covers |
+Each volume has a **detailed** file (full write-up) and a **quick** file (terse numbered/checklist version for fast review before rolling).
+
+| # | What it covers | Notes |
 |---|---|---|
-| 1 | [01-foundations-and-grip.md](01-foundations-and-grip.md) | The four mechanical principles; system structure; **Skill 1** (grip & inside position) |
-| 2 | [02-inside-control-and-distance.md](02-inside-control-and-distance.md) | Inside position **vs. inside control**; **Skill 2** (distance & connection); the **knee line**; the four **gravity drills** |
-| 3 | [03-arumi-breaking-four-step-heelhook.md](03-arumi-breaking-four-step-heelhook.md) | **Arumi ashi garami** (the entry); **Skill 3** (breaking to a hip); the complete **four-step heel-hook sequence**; the opposing-forces principle |
-| 4 | [04-breaking-mechanics-straight.md](04-breaking-mechanics-straight.md) | General theory of breaking; the two opposing-force pairs; grip progression; **inside-leg dominance**; the **shared-spiral** problem |
-| 5 | [05-cross-ashi-garami-inside-heelhook.md](05-cross-ashi-garami-inside-heelhook.md) | Cross ashi garami; the **inside heel hook**; primary/secondary leg; the **turnout / release / interference** problems; double-leg control |
-| 6 | [06-reverse-ashi-garami-toehold-entries.md](06-reverse-ashi-garami-toehold-entries.md) | Reverse ashi garami; the **crossed-legs** problem; **figure-four toe hold** & **knee bar**; first standing entries |
-| 7 | [07-entries-standing-top-bottom.md](07-entries-standing-top-bottom.md) | Entering the legs from standing / top / bottom / seated; the **elevation game**; ashi sit; half & deep half guard |
-| 8 | [08-inversions-double-seated-dilemmas.md](08-inversions-double-seated-dilemmas.md) | Inversion entries; the **double-seated** position; **dilemmas**; finishing review (**head position is #1**) |
+| 1 | The four mechanical principles; system structure; **Skill 1** (grip & inside position) | [detailed](01-foundations-and-grip.md) · [quick](01-foundations-and-grip-quick.md) |
+| 2 | Inside position **vs. inside control**; **Skill 2** (distance & connection); the **knee line**; the four **gravity drills** | [detailed](02-inside-control-and-distance.md) · [quick](02-inside-control-and-distance-quick.md) |
+| 3 | **Arumi ashi garami** (the entry); **Skill 3** (breaking to a hip); the complete **four-step heel-hook sequence**; the opposing-forces principle | [detailed](03-arumi-breaking-four-step-heelhook.md) · [quick](03-arumi-breaking-four-step-heelhook-quick.md) |
+| 4 | General theory of breaking; the two opposing-force pairs; grip progression; **inside-leg dominance**; the **shared-spiral** problem | [detailed](04-breaking-mechanics-straight.md) · [quick](04-breaking-mechanics-straight-quick.md) |
+| 5 | Cross ashi garami; the **inside heel hook**; primary/secondary leg; the **turnout / release / interference** problems; double-leg control | [detailed](05-cross-ashi-garami-inside-heelhook.md) · [quick](05-cross-ashi-garami-inside-heelhook-quick.md) |
+| 6 | Reverse ashi garami; the **crossed-legs** problem; **figure-four toe hold** & **knee bar**; first standing entries | [detailed](06-reverse-ashi-garami-toehold-entries.md) · [quick](06-reverse-ashi-garami-toehold-entries-quick.md) |
+| 7 | Entering the legs from standing / top / bottom / seated; the **elevation game**; ashi sit; half & deep half guard | [detailed](07-entries-standing-top-bottom.md) · [quick](07-entries-standing-top-bottom-quick.md) |
+| 8 | Inversion entries; the **double-seated** position; **dilemmas**; finishing review (**head position is #1**) | [detailed](08-inversions-double-seated-dilemmas.md) · [quick](08-inversions-double-seated-dilemmas-quick.md) |
 
 **New to the series?** Read 1 → 2 → 3 in order (they're the conceptual foundation), then pick the subsystem you want (4 = straight, 5 = cross, 6 = reverse), and use 7–8 to learn how to get *into* the game.
 
