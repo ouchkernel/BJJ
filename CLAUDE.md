@@ -33,7 +33,8 @@ CLAUDE.md                 this file
    - Whisper mangles jargon and names sometimes (e.g. "Jetsu" for Jiu-Jitsu, "Ashigurami" for Ashi Garami, "risk" for "wrist", misheard proper nouns like a technique's real name) — silently correct obvious ASR errors in the notes, don't call out the correction inline.
    - Don't include a "Source: `<filename>`" line in notes — that convention was tried and explicitly removed; don't reintroduce it.
 4. Update (or create) that topic's `README.md` — a table indexing every lesson/volume with links to both the detailed and quick note.
-5. Commit and push only the `.md` files (`.srt`/`.mp4` are already gitignored, so a normal `git add` won't pick them up).
+5. If this is a **new topic directory** (not an existing one like `ankle-locks/` or `leglocks/`), update the root [README.md](README.md) too — add a row to its topic table and flip its status from "Not started"/TBD to the source name and lesson count. The root README should always list every topic directory that has notes in it.
+6. Commit and push only the `.md` files (`.srt`/`.mp4` are already gitignored, so a normal `git add` won't pick them up).
 
 ## Notes on doing this efficiently
 
