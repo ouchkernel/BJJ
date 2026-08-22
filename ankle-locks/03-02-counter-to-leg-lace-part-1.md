@@ -1,7 +1,5 @@
 # Ankle Lock As A Counter To A Leg Lace - Part 1
 
-Source: `7713668694114-03-02- Ankle Lock As A Counter To A Leg Lace - Part 1.mp4`
-
 ## Overview
 
 Countering the **leg lace** — a common modern leg-locking control position using "double trouble" to bind both of your legs together, from which the opponent can attack heel hooks effectively. Even trapped in a leg lace, a straight ankle lock counterattack is available.

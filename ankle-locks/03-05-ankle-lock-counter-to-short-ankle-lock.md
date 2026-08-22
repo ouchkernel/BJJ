@@ -1,7 +1,5 @@
 # Ankle Lock As A Counter To The Short Ankle Lock
 
-Source: `7713668694114-03-05- Ankle Lock As A Counter To The Short Ankle Lock.mp4`
-
 ## Overview
 
 The ankle lock's biggest structural advantage — speed of entry, no need to fight for a "perfect" grip — makes it an excellent counterattack against other leg locks. This lesson covers countering an opponent's **short ankle lock** (a very tight triangle-based lock formed by passing the foot over the top and locking around the outside of the legs).

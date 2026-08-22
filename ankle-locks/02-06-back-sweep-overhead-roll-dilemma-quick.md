@@ -1,7 +1,5 @@
 # Opponent Stands To 2 Feet — Quick Reference
 
-Source: `7713668694114-02-06- Opponent Stands Up To 2 Feet- Back Sweep And Overhead Roll Dilemma.mp4`
-
 ## Get both ankles first
 
 1. From bottom Ashi Garami, hook your foot behind opponent's near knee, pull leg closer.

@@ -1,7 +1,5 @@
 # Flat Back Butterfly Ankle Lock — Quick Reference
 
-Source: `7713668694114-02-03- Opponent Tries To Stand Up To A Knee To Get Foot To Floor- Flat Back Butterfly Ankle Lock.mp4`
-
 ## Trigger
 
 Opponent curls foot through, starts rising to a knee, trying to plant foot flat on the mat.

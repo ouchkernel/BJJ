@@ -1,7 +1,5 @@
 # Ankle Lock From A Z-Lock — Quick Reference
 
-Source: `7713668694114-04-02- Ankle Lock From A Z Lock.mp4`
-
 ## Setup
 
 1. Basic Ashi Garami, feet passed over/inside.

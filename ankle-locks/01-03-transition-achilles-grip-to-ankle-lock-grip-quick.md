@@ -1,7 +1,5 @@
 # Achilles Grip → Ankle Lock Grip — Quick Reference
 
-Source: `7713668694114-01-03- Transition From Achilles Grip To Ankle Lock Grip.mp4`
-
 ## The problem
 
 Achilles grip only pulls. Can't push. Can't finish a resisting leg from there.

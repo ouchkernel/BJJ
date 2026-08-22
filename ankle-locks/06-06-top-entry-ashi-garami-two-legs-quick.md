@@ -1,7 +1,5 @@
 # Top Entry To Ashi Garami, Controlling 2 Legs — Quick Reference
 
-Source: `7713668694114-06-06- Top Entry To Ashi Garami Controlling 2 Legs.mp4`
-
 ## Golden rule
 
 Entering from top position: **control both legs**, not just the one you attack. A hand on the secondary ankle/wrist is usually enough. Doesn't need to happen at the exact moment of entry — grab it as he starts to defend.

@@ -1,7 +1,5 @@
 # A Simple Mechanical Cue That Will Add Greatly To All Your Ankle Locks
 
-Source: `7713668694114-05-07- A Simple Mechanical Cue That Will Add Greatly To All Your Ankle Locks.mp4`
-
 ## Overview
 
 A single, universal cue that applies to **every** ankle lock covered in this course — straight or cross. Simple enough to remember under the stress of live sparring or competition, and described as making a real, concrete, fast difference to performance.

@@ -1,7 +1,5 @@
 # Getting The Half Position In Cross Ankle Locks
 
-Source: `7713668694114-05-01- Getting The Half Position In Cross Ankle Locks.mp4`
-
 ## Overview
 
 Applies the half-foot concept (already established for straight ankle locks) to **cross ankle locks**. Confirms: yes, you still want half-foot in cross ankle locks too — but getting there differs because of the angular change from a straight to a cross Ashi Garami. Covers two methods for exposing the ankle: hollow body, and the instructor's preferred method, the hip heist.

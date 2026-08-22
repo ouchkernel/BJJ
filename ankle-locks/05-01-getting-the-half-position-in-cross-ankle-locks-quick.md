@@ -1,7 +1,5 @@
 # Half Position In Cross Ankle Locks — Quick Reference
 
-Source: `7713668694114-05-01- Getting The Half Position In Cross Ankle Locks.mp4`
-
 ## Straight vs cross
 
 - Straight: their left foot → your right armpit.

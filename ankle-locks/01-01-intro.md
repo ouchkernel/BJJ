@@ -1,7 +1,5 @@
 # Mastering the Move: The Ankle Lock — Intro
 
-Source: `7713668694114-01-01- Intro.mp4`
-
 ## Overview
 
 Framing video for the whole ankle lock series. No technique yet — sets up why the ankle lock matters, how it's changed, and how the course is structured.

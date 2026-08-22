@@ -1,7 +1,5 @@
 # The Crucial 2nd Step Of Ankle Locking: Controlling And Immobilizing Your Opponent's Hips
 
-Source: `7713668694114-01-05- The Crucial 2Nd Step Of Ankle Locking- Controlling And Immobilizing Your Opponent'S Hips.mp4`
-
 ## Overview
 
 Recap of skill #1 (upper body mechanics) and introduction of skill #2: **hip control**. No matter how good the upper body grip is, an opponent can relieve all pressure by moving his hips — so a second, independent mechanism is needed to immobilize the hips (or later, the knee) as an opposing anchor.

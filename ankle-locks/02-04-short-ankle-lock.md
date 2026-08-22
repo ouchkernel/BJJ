@@ -1,7 +1,5 @@
 # Opponent Tries To Stand Up To A Knee To Get Foot To Floor: Short Ankle Lock
 
-Source: `7713668694114-02-04- Opponent Tries To Stand Up To A Knee To Get Foot To Floor- Short Ankle Lock.mp4`
-
 ## Overview
 
 A second counter for the "opponent stands up to a knee, drives foot to the mat" defensive reaction — this time for when the opponent's **knee turns inward**, which blocks the flat-back/butterfly approach from 02-03. Introduces the **short ankle lock**.

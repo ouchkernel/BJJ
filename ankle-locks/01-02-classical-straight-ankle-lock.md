@@ -1,7 +1,5 @@
 # The Classical Straight Ankle Lock: Strengths and Weaknesses
 
-Source: `7713668694114-01-02-The Classical Straight Ankle Lock- Strengths And Weaknesses.srt`
-
 ## Overview
 
 Comparison of the old-school "Achilles lock" vs. the modern straight ankle lock. The core shift over the last ~20 years: **target moved from the back of the ankle (Achilles tendon) to the front of the ankle (anterior ligaments, joint capsule, anterior tibialis tendon)**. Central technical concept introduced: **half foot theory**.

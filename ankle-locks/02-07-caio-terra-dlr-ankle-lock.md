@@ -1,7 +1,5 @@
 # Opponent Stands Up To 2 Feet: Caio Terra DLR Ankle Lock
 
-Source: `7713668694114-02-07- Opponent Stands Up To 2 Feet- Caio Terra Dlr Ankle Lock.mp4`
-
 ## Overview
 
 Note: the transcript's ASR consistently mis-hears "Caio Terra lock" as "coyote jerolog" — corrected throughout below.

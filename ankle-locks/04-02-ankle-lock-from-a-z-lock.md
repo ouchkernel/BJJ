@@ -1,7 +1,5 @@
 # Ankle Lock From A Z-Lock
 
-Source: `7713668694114-04-02- Ankle Lock From A Z Lock.mp4`
-
 ## Overview
 
 Continuing the "double trouble" theme (controlling both of the opponent's legs). The Z-lock position is normally used to attack the hip (and sometimes the knee) with hip-lock pressure, but there's an underrated ankle lock available in the middle of that same position — attacking the **secondary leg**.

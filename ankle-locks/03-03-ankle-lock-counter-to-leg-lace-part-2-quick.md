@@ -1,7 +1,5 @@
 # Ankle Lock Counter To Leg Lace (Part 2) — Quick Reference
 
-Source: `7713668694114-03-03- Ankle Lock As A Counter To A Leg Lace - Part 2.mp4`
-
 ## Defend first
 
 - Toes point **away** from opponent's armpit.

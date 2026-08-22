@@ -1,7 +1,5 @@
 # Counter To The Short Ankle Lock — Quick Reference
 
-Source: `7713668694114-03-05- Ankle Lock As A Counter To The Short Ankle Lock.mp4`
-
 ## Why ankle locks counter everything
 
 No perfect grip needed — snatch elbow-deep, go straight into your attack. Fast entry = good counter tool.

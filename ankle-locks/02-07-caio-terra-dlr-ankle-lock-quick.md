@@ -1,7 +1,5 @@
 # Caio Terra DLR Ankle Lock — Quick Reference
 
-Source: `7713668694114-02-07- Opponent Stands Up To 2 Feet- Caio Terra Dlr Ankle Lock.mp4`
-
 (Transcript ASR mangles "Caio Terra lock" as "coyote jerolog" throughout — corrected here.)
 
 ## When to use this

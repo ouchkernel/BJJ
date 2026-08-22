@@ -1,7 +1,5 @@
 # Outside Ashi Garami for Cross Ankle Locks — Quick Reference
 
-Source: `7713668694114-05-02- Getting The Half Position In Cross Ankle Locks.mp4`
-
 ## Key difference from straight ankle locks
 
 - Straight ankle lock limp = knee turns **outward**.

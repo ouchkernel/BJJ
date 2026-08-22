@@ -1,7 +1,5 @@
 # 4 Main Finishing Positions — Quick Reference
 
-Source: `7713668694114-01-08- The 4 Main Finishing Positions For Ankle Locking.mp4`
-
 ## 2 kinds of resistance you'll face
 
 - **Linear:** boot on (pushed through) / limp leg (pulled out).

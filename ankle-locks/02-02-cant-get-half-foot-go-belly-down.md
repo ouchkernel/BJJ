@@ -1,7 +1,5 @@
 # If You Can't Get The Half Foot Position — Go Belly Down
 
-Source: `7713668694114-02-02- If You Can'T Get The Half Foot Position - Go Belly Down.mp4`
-
 ## Overview
 
 Second branch in the ankle lock decision tree. Covers what to do when the opponent successfully denies the preferred half-foot position (e.g., by turning toes in toward your spine). Core rule: **go belly down**, and use the orientation of the opponent's knee to decide which direction (inside or outside).

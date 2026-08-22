@@ -1,7 +1,5 @@
 # Passing A Foot Into A Cross Ankle Lock
 
-Source: `7713668694114-06-05- Passing A Foot Into A Cross Ankle Lock.mp4`
-
 ## Overview
 
 All the entries covered previously (kneeling, one-knee, standing opponent) led into a **straight** Ashi Garami / straight ankle lock. This lesson bridges the gap: how to take that same standard entry and **pass the foot from one side of the body to the other**, converting a straight ankle lock threat into a cross ankle lock threat. Note: any entry that gets you an inside heel hook also works for a cross ankle lock — this lesson focuses specifically on the foot-passing method.

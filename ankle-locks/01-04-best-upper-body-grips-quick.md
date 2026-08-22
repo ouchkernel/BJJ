@@ -1,7 +1,5 @@
 # Best Upper Body Grips — Quick Reference
 
-Source: `7713668694114-01-04- The Best Upper Body Grips For Ankle Locks.mp4`
-
 ## The one rule that matters
 
 Hand grip choice barely matters. **Elbow position is everything.**

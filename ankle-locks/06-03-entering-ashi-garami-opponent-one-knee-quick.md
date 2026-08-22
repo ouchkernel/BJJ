@@ -1,7 +1,5 @@
 # Entering Ashi Garami — Opponent On One Knee — Quick Reference
 
-Source: `7713668694114-06-03- Entering Ashi Garami Ankle Lock On Opponent On One Knee.mp4`
-
 ## Why he's on one knee
 
 Trades stability for mobility. Read his knee position:

@@ -1,7 +1,5 @@
 # Entering Ashi Garami On A Kneeling Opponent — Quick Reference
 
-Source: `7713668694114-06-02- Entering Ashi Garami On A Kneeling Opponent.mp4`
-
 ## Golden rule
 
 Can't enter Ashi Garami with both opponent knees on the mat. Get one knee up first.

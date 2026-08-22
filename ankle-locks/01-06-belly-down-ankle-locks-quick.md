@@ -1,7 +1,5 @@
 # Belly Down Ankle Locks — Quick Reference
 
-Source: `7713668694114-01-06- Introducing Belly Down Ankle Locks.mp4`
-
 ## Why this matters
 
 ~50% of all your ankle lock finishes will be belly down. Not optional — core skill.

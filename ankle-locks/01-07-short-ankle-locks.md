@@ -1,7 +1,5 @@
 # Short Ankle Locks
 
-Source: `7713668694114-01-07- Short Ankle Locks.mp4`
-
 ## Overview
 
 Introduces the **short ankle lock** — an alternative to controlling the hip that instead controls the area immediately in front of the opponent's knee. It creates a more direct, more powerful opposing force in a shorter amount of time, but is more readily defended by a skilled opponent than conventional (hip-control) methods. Framed explicitly as an **addition** to your ankle locking game, not a replacement for hip control.

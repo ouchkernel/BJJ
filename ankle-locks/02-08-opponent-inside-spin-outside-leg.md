@@ -1,7 +1,5 @@
 # Opponent Performs An Inside Spin: Follow His Turn With Your Outside Leg
 
-Source: `7713668694114-02-08- Opponent Performs An Inside Spin- Follow His Turn With Your Outside Leg.mp4`
-
 ## Overview
 
 Decision-tree material: what to do when a knowledgeable opponent responds to your ankle lock with an **inside spin**. Covers why the escape works, how it beats you if unanswered, and the fix — connecting with your outside leg to realign your hips with your opponent's and ride the spin into a finish.

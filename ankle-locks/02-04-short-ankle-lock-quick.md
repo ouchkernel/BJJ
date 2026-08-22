@@ -1,7 +1,5 @@
 # Short Ankle Lock — Quick Reference
 
-Source: `7713668694114-02-04- Opponent Tries To Stand Up To A Knee To Get Foot To Floor- Short Ankle Lock.mp4`
-
 ## Branch point
 
 Opponent's knee turned outward → use flat-back/butterfly (02-03).

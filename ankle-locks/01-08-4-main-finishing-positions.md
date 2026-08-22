@@ -1,7 +1,5 @@
 # The 4 Main Finishing Positions For Ankle Locking
 
-Source: `7713668694114-01-08- The 4 Main Finishing Positions For Ankle Locking.mp4`
-
 ## Overview
 
 Once opponents get good at defending ankle locks, resistance comes in two categories — **linear** (opponent's leg pumping forward/back — "putting the boot on" or limping the leg out) and **rotational** (opponent spinning/inverting/turning). To handle rotational resistance across all possible angles, you need the ability to finish from **four distinct positions**, covering a full 360 degrees of potential opponent rotation.

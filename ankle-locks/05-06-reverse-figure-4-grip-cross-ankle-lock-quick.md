@@ -1,7 +1,5 @@
 # Reverse Figure-4 Grip — Quick Reference
 
-Source: `7713668694114-05-06- Reverse Figure 4 Grip Cross Ankle Lock.mp4`
-
 ## When to reach for this
 
 Standard grip won't expose the ankle against a tough, resisting opponent. Not a default — a power upgrade for that specific situation.

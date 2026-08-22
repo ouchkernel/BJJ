@@ -1,7 +1,5 @@
 # Opponent Performs An Outside Spin: Following With An Inside Leg
 
-Source: `7713668694114-02-09- Opponent Performs And Outside Spin- Following With An Inside Leg.mp4`
-
 ## Overview
 
 Companion decision-tree lesson to 02-08, covering the opponent's other major spin-based escape: the **outside spin**. This escape exploits an unclosed hip — the fix is the mirror image of the inside-spin counter: hook your **inside foot over the opponent's hip** to follow the roll to a finish.

@@ -1,7 +1,5 @@
 # Counter Ankle Locks From 50-50
 
-Source: `7713668694114-03-04- Counter Ankle Locks From 50-50.mp4`
-
 ## Overview
 
 Using the ankle lock as a counterattack against an opponent who plays 50-50 Ashi Garami and is hunting for a heel hook. Exploits an intrinsic weakness of all Ashi Garami variants: the attacking athlete always exposes some part of their own leg to the defender.

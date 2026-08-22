@@ -1,7 +1,5 @@
 # The One Handed Cross Ankle Lock Variant
 
-Source: `7713668694114-05-05- The One Handed Cross Ankle Lock Variant.mp4`
-
 ## Overview
 
 An underused variant: one-handed cross ankle locks. Seemingly contradicts earlier advice (favor locked/connected hands so the grip can't slide down and bleed power), but one-handed grips unlock a different mechanism — a stronger turning/toehold-like force — when body orientation is right.

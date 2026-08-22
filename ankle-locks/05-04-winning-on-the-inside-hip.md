@@ -1,7 +1,5 @@
 # Winning On The Inside Hip
 
-Source: `7713668694114-05-04- Winning On The Inside Hip.mp4`
-
 ## Overview
 
 Follows directly from lesson 05-03: outside Ashi Garami creates a "dead zone" on the inside hip where cross ankle locks don't break reliably. This lesson shows how to actually finish from the inside hip instead of rolling away from it — by **switching the leg entanglement**.

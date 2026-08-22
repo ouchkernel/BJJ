@@ -1,7 +1,5 @@
 # Opponent Tries To Stand Up To A Knee To Get Foot To Floor: Flat Back Butterfly Ankle Lock
 
-Source: `7713668694114-02-03- Opponent Tries To Stand Up To A Knee To Get Foot To Floor- Flat Back Butterfly Ankle Lock.mp4`
-
 ## Overview
 
 Counter for one of the most common defensive reactions: the opponent curls their foot through and comes up to a knee, trying to plant the sole of the foot flat on the mat (which makes it very difficult to get to a desirable finishing position). This lesson gives the **butterfly Ashi** block plus a **flat-back finish**.

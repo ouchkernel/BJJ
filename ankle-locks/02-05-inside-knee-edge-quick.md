@@ -1,7 +1,5 @@
 # Inside Knee Edge — Quick Reference
 
-Source: `7713668694114-02-05- Opponent Tries To Stand Up To A Knee To Get Foot To Floor- Inside Knee Edge.mp4`
-
 ## Trigger
 
 Opponent rises to a knee, knee turned **inward** — can't even get to half foot from here.

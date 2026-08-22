@@ -1,7 +1,5 @@
 # Getting The Half Position In Cross Ankle Locks (Outside Ashi Garami Entanglement)
 
-Source: `7713668694114-05-02- Getting The Half Position In Cross Ankle Locks.mp4`
-
 ## Overview
 
 Having half-foot in a cross ankle lock isn't enough on its own — the grip alone has limits. This lesson covers the leg entanglement (**outside Ashi Garami**) that binds the opponent's leg and stops the escape that's specific to cross ankle locks: the inward limp.

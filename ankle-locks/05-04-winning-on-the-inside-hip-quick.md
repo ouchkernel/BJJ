@@ -1,7 +1,5 @@
 # Winning On The Inside Hip — Quick Reference
 
-Source: `7713668694114-05-04- Winning On The Inside Hip.mp4`
-
 ## The problem
 
 Outside Ashi Garami leaves a dead zone on the inside hip — cross ankle locks don't break there.

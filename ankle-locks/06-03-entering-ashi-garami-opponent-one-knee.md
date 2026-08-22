@@ -1,7 +1,5 @@
 # Entering Ashi Garami Ankle Lock On Opponent On One Knee
 
-Source: `7713668694114-06-03- Entering Ashi Garami Ankle Lock On Opponent On One Knee.mp4`
-
 ## Overview
 
 Second of the three required entry scenarios: the opponent balances on **one knee** instead of two. Covers why opponents do this and the two variants (knee out wide vs. knee in the middle) with a distinct entry for each.

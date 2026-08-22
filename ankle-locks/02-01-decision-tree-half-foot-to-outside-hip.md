@@ -1,7 +1,5 @@
 # The Best Starting Move In Your Ankle Lock Decision Tree: Half Foot To Outside Hip
 
-Source: `7713668694114-02-01- The Best Starting Move In Your Ankle Lock Decision Tree- Half Foot To Outside Hip.mp4`
-
 ## Overview
 
 First entry in the ankle lock decision tree series. Once you have a good ankle lock, opponents go into a limited, predictable set of defensive reactions — the decision tree exists to give you a correct response for each. This lesson establishes the **default starting option**: half foot grip, then fall to the outside.

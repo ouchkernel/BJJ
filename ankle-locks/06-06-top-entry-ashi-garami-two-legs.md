@@ -1,7 +1,5 @@
 # Top Entry To Ashi Garami Controlling 2 Legs
 
-Source: `7713668694114-06-06- Top Entry To Ashi Garami Controlling 2 Legs.mp4`
-
 ## Overview
 
 All prior entries started from bottom position. This lesson covers entering Ashi Garami from **top position** — passing the opponent's guard while he's underneath you — with an emphasis on controlling both of his legs, not just the one you're attacking.

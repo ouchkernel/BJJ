@@ -1,7 +1,5 @@
 # 3 Foot Positions & The Inverted Foot — Quick Reference
 
-Source: `7713668694114-01-09- The Theory Of The 3 Foot Positions- Solving The Problem Of The Inverted Foot.mp4`
-
 ## The 3 positions (reference: line between opponent's rear delt and tricep/lat)
 
 1. **Ideal** — big toe points at that line. Easiest finish, snaps like a twig.

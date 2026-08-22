@@ -1,7 +1,5 @@
 # Counter Ankle Locks From 50-50 — Quick Reference
 
-Source: `7713668694114-03-04- Counter Ankle Locks From 50-50.mp4`
-
 ## Why this works
 
 Every Ashi Garami exposes some of the attacker's own leg. In 50-50, that's your opening.

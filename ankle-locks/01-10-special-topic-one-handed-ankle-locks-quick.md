@@ -1,7 +1,5 @@
 # One-Handed Ankle Locks — Quick Reference
 
-Source: `7713668694114-01-10- Special Topic- One Handed Ankle Locks.mp4`
-
 ## The split
 
 - **Two-handed / belly-up** → power comes from **hand height**. Hands drift down = power gone.

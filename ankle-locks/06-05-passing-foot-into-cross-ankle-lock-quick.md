@@ -1,7 +1,5 @@
 # Passing A Foot Into A Cross Ankle Lock — Quick Reference
 
-Source: `7713668694114-06-05- Passing A Foot Into A Cross Ankle Lock.mp4`
-
 ## What this is
 
 Converting a straight Ashi Garami entry into a cross ankle lock by passing the foot across your body. (Skip this if your entry already gives you an inside heel hook — that already sets up cross ankle lock.)

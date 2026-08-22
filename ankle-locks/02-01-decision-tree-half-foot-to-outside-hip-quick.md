@@ -1,7 +1,5 @@
 # Decision Tree Start: Half Foot → Outside Hip — Quick Reference
 
-Source: `7713668694114-02-01- The Best Starting Move In Your Ankle Lock Decision Tree- Half Foot To Outside Hip.mp4`
-
 ## Your default opening move
 
 1. Opponent seated in front of you.

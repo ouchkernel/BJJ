@@ -1,7 +1,5 @@
 # The Best Upper Body Grips For Ankle Locks
 
-Source: `7713668694114-01-04- The Best Upper Body Grips For Ankle Locks.mp4`
-
 ## Overview
 
 Different top ankle lockers use different hand grips, which raises the natural question of which is "best." The answer given here: **the specific hand grip barely matters — elbow position is what matters.** This lesson catalogs the main hand grip options and the tradeoffs between them, all judged against a single standard: how well does this grip let you drive your elbow to the centerline.

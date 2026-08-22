@@ -1,7 +1,5 @@
 # Entering Ashi Garami — Standing Opponent — Quick Reference
 
-Source: `7713668694114-06-04- Entering Ashi Garami Ankle Lock On A Standing Opponent.mp4`
-
 ## First check
 
 Square stance or bladed (staggered)? Most people are bladed. Have an answer for both.

@@ -1,7 +1,5 @@
 # Counter Standard Ashi Garami — Quick Reference
 
-Source: `7713668694114-03-01- Countering A Standard Ashi Garami With Ankle Locks.mp4`
-
 ## Why this works
 
 Any Ashi Garami your opponent puts on you exposes HIS legs to counterattack. That's just how the position works.

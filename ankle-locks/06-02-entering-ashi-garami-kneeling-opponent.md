@@ -1,7 +1,5 @@
 # Entering Ashi Garami On A Kneeling Opponent
 
-Source: `7713668694114-06-02- Entering Ashi Garami On A Kneeling Opponent.mp4`
-
 ## Overview
 
 Ankle locks don't happen by accident in sparring — you have to actively force your opponent into Ashi Garami. This lesson covers the first of three required entry scenarios (opponent on two knees, one knee, or standing): **getting a kneeling opponent into Ashi Garami**, plus a variant for a defensively-postured opponent who denies upper-body grips.

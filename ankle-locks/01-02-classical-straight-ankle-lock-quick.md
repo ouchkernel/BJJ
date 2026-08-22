@@ -1,7 +1,5 @@
 # Straight Ankle Lock — Quick Reference
 
-Source: `7713668694114-01-02-The Classical Straight Ankle Lock- Strengths And Weaknesses.srt`
-
 ## Do this, in order
 
 1. Get **elbow-deep** around the ankle (not wrist-deep).

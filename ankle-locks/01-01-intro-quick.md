@@ -1,7 +1,5 @@
 # Ankle Lock Intro — Quick Reference
 
-Source: `7713668694114-01-01- Intro.mp4`
-
 ## Why bother with ankle locks
 
 - Only leg lock legal at **every belt level, gi and no-gi**.

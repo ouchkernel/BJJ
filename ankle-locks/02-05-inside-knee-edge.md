@@ -1,7 +1,5 @@
 # Opponent Tries To Stand Up To A Knee To Get Foot To Floor: Inside Knee Edge
 
-Source: `7713668694114-02-05- Opponent Tries To Stand Up To A Knee To Get Foot To Floor- Inside Knee Edge.mp4`
-
 ## Overview
 
 A third tool for the "opponent stands to a knee, drives foot to mat" problem — this time for the specific case where the opponent, from seated, comes up to a knee **turned inward**, making it hard to get to half foot at all (not just hard to finish). Introduces the **inside knee wedge**.

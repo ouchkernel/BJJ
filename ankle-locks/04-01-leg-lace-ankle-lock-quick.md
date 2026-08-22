@@ -1,7 +1,5 @@
 # Leg Lace Ankle Lock — Quick Reference
 
-Source: `7713668694114-04-01- Leg Lace Ankle Lock.mp4`
-
 ## The problem this solves
 
 Double trouble (both legs laced) usually → release one leg → hunt heel hook. Skilled opponents spin out of that. Fix: attack the ankle instead, no release needed.

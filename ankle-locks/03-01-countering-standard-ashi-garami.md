@@ -1,7 +1,5 @@
 # Countering A Standard Ashi Garami With Ankle Locks
 
-Source: `7713668694114-03-01- Countering A Standard Ashi Garami With Ankle Locks.mp4`
-
 ## Overview
 
 Shifts from proactive ankle-lock attacks to **counter-offense**: your opponent takes a standard Ashi Garami (or Ruimi Ashi Garami) leg entanglement on you, and you use a straight ankle lock to counter-attack. Framed as one of the best uses of ankle locking — fast, efficient, and flips control back to you against an aggressive leg locker.

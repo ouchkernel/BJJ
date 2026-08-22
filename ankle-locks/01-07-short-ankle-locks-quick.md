@@ -1,7 +1,5 @@
 # Short Ankle Locks — Quick Reference
 
-Source: `7713668694114-01-07- Short Ankle Locks.mp4`
-
 ## What it is
 
 Instead of controlling the hip, control the area right in front of the knee. More direct opposing force, faster break. Shorter lever though — easier for a good opponent to defend.

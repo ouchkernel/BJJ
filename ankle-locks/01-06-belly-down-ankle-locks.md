@@ -1,7 +1,5 @@
 # Introducing Belly Down Ankle Locks
 
-Source: `7713668694114-01-06- Introducing Belly Down Ankle Locks.mp4`
-
 ## Overview
 
 Introduces **belly down finishing** — described as producing at least 50% of all ankle lock finishes. Going belly down (sprawling face-down over the position) massively increases breaking force by adding body weight and using the floor itself to pin the opponent's knee, creating the strongest version of the "opposing force" concept from the previous lesson.

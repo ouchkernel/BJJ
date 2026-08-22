@@ -1,7 +1,5 @@
 # Ankle Lock As A Counter To A Leg Lace — Part 2
 
-Source: `7713668694114-03-03- Ankle Lock As A Counter To A Leg Lace - Part 2.mp4`
-
 ## Overview
 
 Continuation of countering an opponent's leg lock attempts with your own ankle lock. This lesson covers the case where the opponent hasn't fully laced your legs but is instead going directly after your heel (heel hook attempt), and how good defensive foot positioning creates the opening for a counter ankle lock.

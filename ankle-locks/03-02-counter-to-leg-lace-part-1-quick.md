@@ -1,7 +1,5 @@
 # Counter To Leg Lace (Part 1) — Quick Reference
 
-Source: `7713668694114-03-02- Ankle Lock As A Counter To A Leg Lace - Part 1.mp4`
-
 ## The situation
 
 Opponent has your legs bound in a leg lace, controlling you, threatening heel hooks. You still have a counter.

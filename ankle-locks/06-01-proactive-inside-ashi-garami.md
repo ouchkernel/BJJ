@@ -1,7 +1,5 @@
 # Proactive Inside Ashi Garami
 
-Source: `7713668694114-06-01- Proactive Inside Ashi Garami.mp4`
-
 ## Overview
 
 Shows how to fold cross ankle locks into a heel-hook game, using inside foot position across Ashi Garami — a very common heel-hooking position. The core insight: an Achilles grip is mechanically far more robust than a heel hook grip, and switching to it changes the whole exchange in your favor when an opponent defends the heel.

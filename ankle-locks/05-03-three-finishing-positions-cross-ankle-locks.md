@@ -1,7 +1,5 @@
 # 3 Finishing Positions For Cross Ankle Locks
 
-Source: `7713668694114-05-03- 3 Finishing Positions For Cross Ankle Locks.mp4`
-
 ## Overview
 
 Straight ankle locks have 4 reliable finishing positions across 360° of rotation (outside hip, inside hip, belly-down, flat-back). Cross ankle locks are different — one of those four (inside hip) is unreliable with the standard entanglement, effectively leaving **3 dependable finishing positions**.

@@ -1,7 +1,5 @@
 # Entering Ashi Garami Ankle Lock On A Standing Opponent
 
-Source: `7713668694114-06-04- Entering Ashi Garami Ankle Lock On A Standing Opponent.mp4`
-
 ## Overview
 
 Third and final entry scenario: opponent has **no knees down** — fully standing. Covers square stance vs. bladed (staggered) stance, and a separate high-percentage method targeting the back leg specifically.

@@ -1,7 +1,5 @@
 # Transition From Achilles Grip To Ankle Lock Grip
 
-Source: `7713668694114-01-03- Transition From Achilles Grip To Ankle Lock Grip.mp4`
-
 ## Overview
 
 Recurring theme for the whole course: the transition from an **Achilles grip** (holds/controls only) to an **ankle lock grip** (breaks). These solve two different problems — a robust grip for controlling a leg in position, vs. leverage capable of breaking a joint. This lesson isolates the mechanics of that transition, done against real resistance.

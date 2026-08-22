@@ -1,7 +1,5 @@
 # Proactive Inside Ashi Garami — Quick Reference
 
-Source: `7713668694114-06-01- Proactive Inside Ashi Garami.mp4`
-
 ## The mistake
 
 From inside foot position across Ashi Garami, chasing the heel for a heel hook.

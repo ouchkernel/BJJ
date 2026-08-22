@@ -1,7 +1,5 @@
 # Reverse Figure 4 Grip Cross Ankle Lock
 
-Source: `7713668694114-05-06- Reverse Figure 4 Grip Cross Ankle Lock.mp4`
-
 ## Overview
 
 An alternate, higher-power grip for cross ankle locks — not a default, but a tool for when the conventional grip isn't getting the ankle exposed and a tough opponent needs extra horsepower. Trade-off: more power, but an extra step, so it's slower to apply than the standard grip.

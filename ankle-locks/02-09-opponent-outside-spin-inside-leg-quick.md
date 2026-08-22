@@ -1,7 +1,5 @@
 # Opponent Outside Spin — Quick Reference
 
-Source: `7713668694114-02-09- Opponent Performs And Outside Spin- Following With An Inside Leg.mp4`
-
 ## Why this escape works
 
 Your Achilles grip alone is holding the lock — no hip control (no triangle/entanglement over the hips). Opponent's hands go to the floor, he spins to the outside, hands free.

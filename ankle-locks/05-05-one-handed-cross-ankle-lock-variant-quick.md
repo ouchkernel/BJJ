@@ -1,7 +1,5 @@
 # One-Handed Cross Ankle Lock — Quick Reference
 
-Source: `7713668694114-05-05- The One Handed Cross Ankle Lock Variant.mp4`
-
 ## Golden rule
 
 - Chest **down** toward the floor → go one-handed, it's stronger (toehold-like turning force).

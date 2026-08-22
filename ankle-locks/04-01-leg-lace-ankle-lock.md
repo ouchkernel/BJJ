@@ -1,7 +1,5 @@
 # Leg Lace Ankle Lock
 
-Source: `7713668694114-04-01- Leg Lace Ankle Lock.mp4`
-
 ## Overview
 
 Specialty topic: ankle locking out of a **double trouble** position (both of the opponent's legs controlled/laced). Normally this position is used to hunt heel hooks, but skilled opponents can make heel hooks difficult to finish — this lesson shows how to use the same controlling position to attack the ankle instead.

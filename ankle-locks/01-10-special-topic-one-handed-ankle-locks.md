@@ -1,7 +1,5 @@
 # Special Topic: One-Handed Ankle Locks
 
-Source: `7713668694114-01-10- Special Topic- One Handed Ankle Locks.mp4`
-
 ## Overview
 
 One-handed ankle locks almost always end up belly-down. This lesson covers why two-handed grips need high hands to work belly-up, why one-handed grips work on a completely different mechanic (knee-pinning, not hand height), and why they're a valuable tactical option — especially against a good hand-fighter or when you can't get the ideal foot position.

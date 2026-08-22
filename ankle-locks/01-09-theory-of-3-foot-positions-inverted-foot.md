@@ -1,7 +1,5 @@
 # The Theory Of The 3 Foot Positions: Solving The Problem Of The Inverted Foot
 
-Source: `7713668694114-01-09- The Theory Of The 3 Foot Positions- Solving The Problem Of The Inverted Foot.mp4`
-
 ## Overview
 
 Addresses the hardest defensive foot position a skilled opponent can achieve: the **inverted foot**, where the opponent rotates their foot to point in the exact opposite direction needed to finish. Rather than treating this as a dead end, the lesson frames it as a **spectrum of three foot positions** and gives a recovery method — chase the escape with your outside leg through the turn, and the foot position naturally improves with each rotation.

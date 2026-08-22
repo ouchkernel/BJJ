@@ -1,7 +1,5 @@
 # Elbow-to-Centerline Cue — Quick Reference
 
-Source: `7713668694114-05-07- A Simple Mechanical Cue That Will Add Greatly To All Your Ankle Locks.mp4`
-
 ## The one cue (works for straight AND cross ankle locks)
 
 **Elbow toward your centerline = good. Elbow forward/away from centerline = bad.**

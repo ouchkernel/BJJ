@@ -1,7 +1,5 @@
 # Can't Get Half Foot? Go Belly Down — Quick Reference
 
-Source: `7713668694114-02-02- If You Can'T Get The Half Foot Position - Go Belly Down.mp4`
-
 ## The rule
 
 Can't get half foot → **go belly down.** Don't fight for it forever.

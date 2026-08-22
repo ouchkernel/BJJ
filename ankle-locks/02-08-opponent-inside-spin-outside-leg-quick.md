@@ -1,7 +1,5 @@
 # Opponent Inside Spin — Quick Reference
 
-Source: `7713668694114-02-08- Opponent Performs An Inside Spin- Follow His Turn With Your Outside Leg.mp4`
-
 ## What's happening
 
 Opponent hand on his own leg → inverts onto shoulders → spins through. Goal isn't the spin itself — it's ending up with your hips facing UP and his facing DOWN (opposing directions). That's what breaks your grip, even a tight one.

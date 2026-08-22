@@ -1,7 +1,5 @@
 # Opponent Stands Up To 2 Feet: Back Sweep And Overhead Roll Dilemma
 
-Source: `7713668694114-02-06- Opponent Stands Up To 2 Feet- Back Sweep And Overhead Roll Dilemma.mp4`
-
 ## Overview
 
 Answers the obvious follow-up question from the previous "opponent stands to one knee" material: what if the opponent stands all the way up onto both feet? Answer: still very attackable — this lesson covers getting both ankles from bottom Ashi Garami, then a **weight-distribution dilemma** (backward knock-down vs. forward roll) that gives you an answer no matter how the opponent balances.

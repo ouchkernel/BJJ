@@ -1,7 +1,5 @@
 # 3 Cross Ankle Lock Finishes — Quick Reference
 
-Source: `7713668694114-05-03- 3 Finishing Positions For Cross Ankle Locks.mp4`
-
 ## The 3 that work (with outside Ashi Garami + half-foot)
 
 1. **Outside hip** — shoulder down, close the elbow. That alone hurts. Works one-handed too.

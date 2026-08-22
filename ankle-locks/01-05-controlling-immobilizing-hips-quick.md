@@ -1,7 +1,5 @@
 # Controlling & Immobilizing The Hips — Quick Reference
 
-Source: `7713668694114-01-05- The Crucial 2Nd Step Of Ankle Locking- Controlling And Immobilizing Your Opponent'S Hips.mp4`
-
 ## The problem
 
 Perfect upper body grip = still doesn't finish, if opponent can move his hips. He'll always relieve pressure by lifting/moving hips. This is how classic ankle locks got escaped constantly.
