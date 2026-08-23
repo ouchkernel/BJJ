@@ -2,25 +2,29 @@
 
 ## From closed guard
 
-1. Pommel hands to the inside **one at a time**, never both together.
-2. Pommel all the way to **your own shoulder** — stopping short lets them re-pommel back to your bicep.
-3. Pull with legs → their hands hit the mat.
-4. Catch head, foot to floor, turn to side (knee down, heel up).
-5. Foot to hip → knee in front of one shoulder, knee behind the other → clamp.
+1. Pommel hands to the mat **one at a time, all the way to your own shoulder** (partial = re-stolen).
+2. Pull with legs, catch the head.
+3. Foot to floor, turn on your side, knee down/heel up.
+4. Foot to hip, knee in front of one shoulder / behind the other → clamp.
+5. Angle, extract bottom foot, triangle.
 
 ## From butterfly guard
 
-**A:** Butterfly hook in, knee out (not up) → elbow inside bicep, above head → push out with other foot onto your side → knee in front of shoulder → clamp.
+1. Butterfly hook inside their leg, knee pointed **outward**.
+2. Elbow inside their bicep, above their head.
+3. Push with foot onto your side.
+4. Knee in front of the shoulder → clamp.
 
-**B (shut down tight):** Small forward shift for space → elbow in, foot out, toes out → elbow-escape to shoulder → second knee in, pinch → clamp.
+Shut down tight? Forward shift for space first, then same sequence.
 
 ## From half guard
 
-1. Hands to opponent's hip.
-2. Shift hips out, toes out, knee inverts (**down to the floor, never up**), elbow inside their knee.
-3. Knee lands in their hip, push back on hip, hand inside bicep.
-4. Clamp achieved → extract legs → triangle.
+1. Hands to their hip (even if knees are tight).
+2. Hips shift out, toes out, invert knee **down to the floor** (never up — gets caught).
+3. Elbow inside their knee, knee into their hip.
+4. Push their hips, hand inside their bicep → clamp forms.
+5. Extract legs → triangle.
 
-## The one rule that applies everywhere
+## One universal check
 
-Half guard inverting knee: **down, not up** — up gets caught behind their leg and kills the escape.
+Inverted knee always points **down**, never up to the ceiling.

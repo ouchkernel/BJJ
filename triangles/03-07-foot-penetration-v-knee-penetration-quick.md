@@ -1,23 +1,22 @@
-# Foot vs Knee Penetration — Quick Reference
+# Foot Penetration V Knee Penetration — Quick Reference
 
-## The one rule that decides it
+## The rule (flagged as critical)
 
-Distance between your chest and your opponent's chest.
+**Distance between chests decides everything.**
 
 | Distance | Lead with |
 |---|---|
-| Far apart (seated guard, hand-fighting) | **Foot** — straight over the collarbone into trap triangle |
-| Chest-to-chest (supine closed/butterfly guard) | **Knee** first (opens space in front of the shoulder), foot follows |
+| Space between chests (most seated guard) | **Foot** — straight over the collarbone |
+| Chest-to-chest (closed guard, butterfly, tight supine) | **Knee** — opens space first, foot follows |
 
 ## Why
 
-Chest-to-chest, a direct foot-over-the-shoulder move requires flexibility no human has. The knee has to open the space first.
+Foot straight over the shoulder chest-to-chest requires impossible flexibility. Knee-first creates the room the foot needs.
 
-## Defaults to memorize
+## The constant
 
-- Seated guard → foot-first, almost always.
-- Supine, chest-to-chest → knee-first, foot second, no exceptions.
+Foot always ends up over the opponent's shoulder eventually — the only question is whether it gets there directly or via the knee first.
 
-## Why this matters later
+## Be honest with yourself
 
-This exact knee-first principle is how you enter **the clamp** from supine positions (next lesson) — same governing logic.
+You need both skills. Check the distance before you commit to an entry method — don't default to one out of habit.

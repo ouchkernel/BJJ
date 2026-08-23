@@ -2,35 +2,33 @@
 
 ## Overview
 
-Described as one of the most important sections in the whole course: the choice between leading your leg over with your **foot** or your **knee** when penetrating into a trap triangle. Which one to use is governed entirely by one variable — the distance between your chest and your opponent's chest.
+Flagged as one of the most important sections in the entire course: the distinction between penetrating into the one-in-one-out position by leading with the **foot** versus leading with the **knee**. Getting this choice wrong makes triangle entries needlessly difficult or outright impossible.
 
----
+## The Two Methods
 
-## The rule
+- **Foot-first**: the foot goes directly over the opponent's collarbone/shoulder to penetrate into the trap triangle.
+- **Knee-first**: the knee penetrates inside the shoulder first, and the foot follows behind it.
 
-**The further your opponent's chest is from yours, the more you lead with your foot. The closer their chest is to yours, the more you lead with your knee.**
+Both are valid — the question is knowing when to use which.
 
-At some point the foot always has to pass over your opponent's shoulder to create the one-in-one-out — that's non-negotiable. The only question is whether the foot goes first, or the knee opens the space for it first.
+## The Governing Rule: Distance
 
-### Foot-first (more distance)
-When there's space between your chest and your opponent's — typical of a seated guard hand-fighting situation — you can simply throw your foot directly over their collarbone and penetrate straight through into the trap triangle.
+**The further the opponent's chest is from yours, the more you lead with the foot. The closer their chest is to yours, the more you lead with the knee.**
 
-### Knee-first (less distance)
-When you're chest-to-chest — typical of closed guard or butterfly guard while supine — throwing your foot over directly is physically impossible without extreme, beyond-human flexibility. Instead, the knee comes through first, penetrating in front of the shoulder and creating the space the foot needs. The knee leads, the foot follows.
+- With space between chests (e.g., a hand-fighting situation at range), the foot can go directly over the collarbone into the trap triangle — this is the common case in the seated-guard entries covered throughout this volume.
+- Chest-to-chest (closed guard, butterfly guard, any tight supine position), throwing a foot straight over the shoulder would require impossible flexibility. Here, the **knee must lead**, penetrating inside the shoulder first to create the space the foot needs to follow.
 
-## Practical guide
+## Why It Always Comes Down To The Same Endpoint
 
-- **Seated guard entries:** in the overwhelming majority of cases, there's enough distance that the foot enters first, straight into the trap triangle.
-- **Supine positions** (flat on the back, chest-to-chest with the opponent — closed guard or butterfly guard, doesn't matter which): knee in front of the shoulder first, to create the room, then the foot follows.
+At some point, the foot always has to pass over the opponent's shoulder to create the one-in-one-out situation — that part never changes. The only variable is whether the foot gets there directly (far distance) or via the knee opening space first (close distance).
 
-You need to be highly competent in both methods and know, in the moment, which distance situation you're in.
+## Applying This Across Positions
 
----
+- Seated guard: in the overwhelming majority of cases, there's enough distance to lead with the foot directly.
+- Supine positions (closed guard, butterfly guard) with the opponent chest-to-chest: physically impossible to lead foot-first — knee-in-front-of-the-shoulder must come first, foot follows.
 
 ## Key Takeaways
 
-- One governing variable: **distance between your chest and your opponent's chest.**
-- More distance → foot leads.
-- Less distance (chest-to-chest) → knee leads, foot follows.
-- Foot-first is the default from seated guard; knee-first is the default from supine, chest-to-chest positions.
-- This distinction feeds directly into later lessons on entering the clamp from supine positions, where knee-first penetration is the operating principle.
+- This is a binary decision governed entirely by **distance between chests**, not by preference or habit.
+- You must be competent at both methods and know which one the current position calls for — neither one is a universal default.
+- Chest-to-chest situations always require knee-first entry; anything with real space between chests generally allows foot-first entry.

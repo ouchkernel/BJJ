@@ -2,33 +2,26 @@
 
 ## Overview
 
-A classic, long-standing triangle entry using wrist control — plus the reason it's not a favorite, and a preferred alternative that fixes its main weakness: it does nothing to control your opponent's posture.
+Introduces wrist-control entries as the second-favorite method (after the clamp) for reaching triangles from supine position — starting with the classic double-wrist-control approach, explaining its real weakness, and offering the preferred collar-tie-plus-single-wrist alternative.
 
----
+## Double Wrist Control — The Classic (And Its Flaw)
 
-## The classic double-wrist-control entry
+- An old, venerable move: control both of the opponent's wrists, push one under the other to create a temporary one-in-one-out, then throw the legs up.
+- Still works on occasion, but the instructor isn't a fan: **it does nothing to control the opponent's posture.** Its success leans on the opponent being naive or lazy — an alert opponent who senses the triangle coming will simply posture up as you push in, and the entry falls apart.
+- Mechanical detail regardless of grip: the hollow of your knee must reach **at least as high as the opponent's shoulder** for an effective lock. If they posture up right as you push the wrist, you only get "ankle deep" — no triangle results.
 
-If you control both of your opponent's wrists, you can push one wrist under the other, creating a temporary one-in-one-out situation. Throwing your legs up at that moment puts one arm inside the triangle and one outside, and you're in business.
+## The Preferred Alternative: Collar Tie + Single Wrist
 
-This move has been around for a long time and can still work — but there's a real limitation: **it does nothing whatsoever to control your opponent's posture.** It relies to some degree on the opponent being naive or lazy. If they're alert to the triangle threat and posture up the instant you push their wrists together, the entry falls apart.
-
-## The preferred alternative: collar tie + single wrist control
-
-Because double wrist control doesn't manage posture, the preferred method combines a **collar tie** (posture control) with a **single wrist control** (2-on-1), rather than tying up both wrists.
-
-1. Secure one wrist with a 2-on-1 grip — feed the opponent's wrist using your bicep.
-2. Bring your other hand inside and take a collar tie, with your elbow **inside** the opponent's elbow — this collar tie is very hard for them to escape once it's set, and it holds long enough to work into the triangle.
-3. Push the captured wrist into the opponent's own sternum.
-4. Take your leg over their leg; your second foot goes to their hip for height.
-5. Drive your knee up to their neck — **the hollow of your knee must reach at least as high as the shoulder** for the lock to hold (this ties back to the foot-vs-knee-penetration principle from earlier).
-6. As they try to yank away, the collar tie and depth over the neck hold the entry together.
-7. Hand punches through in front to control posture, wedge in behind the head, lock the figure-four directly into the strangle.
-
----
+1. With the opponent's arms in a double-bicep position, feed one of their wrists across using your **bicep**, creating a two-on-one grip.
+2. Bring your hand inside theirs, pull slightly with your legs, then take a **collar tie** combined with control of that single wrist.
+3. Your controlling arm should have **inside position** — elbow inside the opponent's elbow. With the collar tie in place, escaping is nearly impossible for long enough to build the triangle.
+4. Make a strong arm, physically push the controlled wrist into the opponent's own sternum.
+5. Throw your leg over the opponent's leg, second foot to their hip — this height lets you get your knee **deep** up to their neck (not just ankle-deep).
+6. As they yank away, the collar tie plus the deep knee placement secures a good bite on the initial entry.
+7. Hand through in front, control posture, wedge behind the head, lock the figure-four directly into the strangle.
 
 ## Key Takeaways
 
-- Double wrist control is old and still occasionally works, but doesn't control posture — an alert opponent just postures out of it.
-- Preferred fix: **collar tie (posture) + single wrist 2-on-1 (arm control)** instead of tying up both wrists.
-- Knee height matters: the hollow of the knee needs to be at least shoulder-height for the lock to be effective — going in too shallow ("ankle deep") loses the triangle if the opponent postures at the wrong moment.
-- Collar tie with an inside elbow position is difficult for the opponent to strip once secured.
+- Double wrist control's core flaw: it does nothing about posture, so it only works against opponents who don't recognize the triangle coming.
+- Collar tie + single wrist control fixes this by directly controlling posture while still isolating an arm via the two-on-one bicep feed.
+- The knee must reach at least shoulder height on entry — an opponent who postures at the wrong moment leaves you "ankle deep" with no realistic path to a strangle.

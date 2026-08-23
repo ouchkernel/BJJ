@@ -2,26 +2,20 @@
 
 ## What it is
 
-Upper-body Ashi Garami. Knee in front of one shoulder, knee behind the other, opponent's head + one arm trapped between your knees.
+Upper-body Ashi Garami. Knee in front of one shoulder, knee behind the other → opponent's head + one arm trapped, you control the distance.
 
-## Do this
+## Do this, in order
 
-1. On your back, opponent in close.
-2. Get onto your side — shrimp/elbow-escape motion, but escaping inside their **shoulders**, not hips.
-3. Knee in front of the far shoulder, knee behind the near shoulder.
-4. Small foot movement across their body → perpendicular angle (you're looking into their ear).
-5. Extract your bottom leg, go over the top → trap triangle.
+1. On your back, opponent in close? Get onto your **side** first.
+2. Knee/elbow-skate in front of one shoulder.
+3. Scissor (not squeeze) — one knee pulls to chest, one pushes forward.
+4. Elbow over their elbow — arm can't pull free.
+5. Distance/angle controlled → extract bottom leg → triangle.
 
-## The knee action
+## Getting in
 
-Scissor, not squeeze: one knee pulls to your chest, the other pushes forward.
+Same motion as a basic elbow escape, but escaping inside the **shoulders** instead of the hips. Easier — shoulders are weaker.
 
-## Why it controls distance
+## Why this matters
 
-- They push in → front knee stops them.
-- They pull away → back knee stops them.
-- Distance between your head and theirs = fully in your control.
-
-## Why it matters
-
-Called the single most commonly used, most important supine triangle entry in the whole system. Worth prioritizing.
+Stated directly: master the clamp or you don't really master triangles from bottom position. Single most-used entry method, by far, for this whole system.

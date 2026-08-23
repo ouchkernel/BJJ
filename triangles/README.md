@@ -1,6 +1,6 @@
-# Triangles: Enter The System
+# Triangles — Enter The System
 
-Notes from John Danaher's *Triangles: Enter The System* (8 volumes). Source videos were combined multi-chapter recordings rather than one-file-per-lesson — each volume's transcript was split into its individual chapters using the official chapter list printed on the course's DVD case, then written up per chapter.
+Notes from John Danaher's *Triangles: Enter The System* (8 volumes). Unlike the other courses in this repo, these volumes were recorded as long combined videos — each one actually contains many separate chapters back-to-back with no markers in the file. Chapter boundaries below follow the official chapter list from the course's own DVD case.
 
 Each lesson has two versions:
 - **Detailed** — full write-up with sections and a Key Takeaways summary.
@@ -38,7 +38,7 @@ Each lesson has two versions:
 | 02-03 | Front Triangle Mechanics 3 | [detailed](02-03-front-triangle-mechanics-3.md) · [quick](02-03-front-triangle-mechanics-3-quick.md) |
 | 02-04 | Managing Transition From Trap Triangle To Figure Four Triangle | [detailed](02-04-trap-to-figure-four-posture-control.md) · [quick](02-04-trap-to-figure-four-posture-control-quick.md) |
 | 02-05 | Managing Transition From Trap Triangle To Figure Four Triangle 2 | [detailed](02-05-trap-to-figure-four-scoop-arm.md) · [quick](02-05-trap-to-figure-four-scoop-arm-quick.md) |
-| 02-06 | Putting It All Together - Front Triangle | [detailed](02-06-putting-it-all-together-front-triangle.md) · [quick](02-06-putting-it-all-together-front-triangle-quick.md) |
+| 02-06 | Putting It All Together — Front Triangle | [detailed](02-06-putting-it-all-together-front-triangle.md) · [quick](02-06-putting-it-all-together-front-triangle-quick.md) |
 | 02-07 | Unified Legs | [detailed](02-07-unified-legs.md) · [quick](02-07-unified-legs-quick.md) |
 | 02-08 | Getting Lower Back Off Ground And Onto Points Of Shoulders | [detailed](02-08-lower-back-off-ground-points-of-shoulders.md) · [quick](02-08-lower-back-off-ground-points-of-shoulders-quick.md) |
 | 02-09 | Story Of Every Triangle Is The Same | [detailed](02-09-story-of-every-triangle.md) · [quick](02-09-story-of-every-triangle-quick.md) |
@@ -65,10 +65,10 @@ Each lesson has two versions:
 | 03-09 | Entering Clamp Guard | [detailed](03-09-entering-clamp-guard.md) · [quick](03-09-entering-clamp-guard-quick.md) |
 | 03-10 | Wrist Controls To Triangles | [detailed](03-10-wrist-controls-to-triangles.md) · [quick](03-10-wrist-controls-to-triangles-quick.md) |
 | 03-11 | Wrist Controls To Triangles 2 | [detailed](03-11-wrist-controls-to-triangles-2.md) · [quick](03-11-wrist-controls-to-triangles-2-quick.md) |
-| 03-12 | Monoplata To Front Triangle | [detailed](03-12-omoplata-to-front-triangle.md) · [quick](03-12-omoplata-to-front-triangle-quick.md) |
+| 03-12 | Omoplata To Front Triangle | [detailed](03-12-omoplata-to-front-triangle.md) · [quick](03-12-omoplata-to-front-triangle-quick.md) |
 | 03-13 | Fake Hip Sweep To Front Triangle | [detailed](03-13-fake-hip-sweep-to-front-triangle.md) · [quick](03-13-fake-hip-sweep-to-front-triangle-quick.md) |
 
-## Volume 4 — Front Triangle (Positional & Relational)
+## Volume 4 — Front Triangle (Top/Side/Mounted, Relationships)
 
 | # | Lesson | Notes |
 |---|---|---|
@@ -87,16 +87,16 @@ Each lesson has two versions:
 | 04-13 | Relationship Between Front Triangle And Other Submissions 4 | [detailed](04-13-relationship-front-triangle-other-submissions-4.md) · [quick](04-13-relationship-front-triangle-other-submissions-4-quick.md) |
 | 04-14 | Transition To Inside Heel Hook | [detailed](04-14-transition-to-inside-heel-hook.md) · [quick](04-14-transition-to-inside-heel-hook-quick.md) |
 
-## Volume 5 — Opposite Triangle (Hantai Sankaku)
+## Volume 5 — Opposite Triangle
 
 | # | Lesson | Notes |
 |---|---|---|
 | 05-01 | Opposite Side Triangle - Hantai Sankaku | [detailed](05-01-opposite-side-triangle-hantai-sankaku.md) · [quick](05-01-opposite-side-triangle-hantai-sankaku-quick.md) |
 | 05-02 | Front Triangle, Opposite Triangle And Elbow Position | [detailed](05-02-front-triangle-opposite-triangle-elbow-position.md) · [quick](05-02-front-triangle-opposite-triangle-elbow-position-quick.md) |
-| 05-03 | Sweeping And Off-Balancing With Opposite Triangle | [detailed](05-03-sweeping-and-off-balancing-with-opposite-triangle.md) · [quick](05-03-sweeping-and-off-balancing-with-opposite-triangle-quick.md) |
+| 05-03 | Sweeping And Off Balancing With Opposite Triangle | [detailed](05-03-sweeping-and-off-balancing-with-opposite-triangle.md) · [quick](05-03-sweeping-and-off-balancing-with-opposite-triangle-quick.md) |
 | 05-04 | Transition From Opposite Triangle To Joint Locks | [detailed](05-04-transition-from-opposite-triangle-to-joint-locks.md) · [quick](05-04-transition-from-opposite-triangle-to-joint-locks-quick.md) |
 
-## Volume 6 — Rear Triangle (Ushiro Sankaku)
+## Volume 6 — Rear Triangle
 
 | # | Lesson | Notes |
 |---|---|---|
@@ -115,7 +115,7 @@ Each lesson has two versions:
 | 06-13 | Rear Triangle From Referee's Position | [detailed](06-13-rear-triangle-from-referees-position.md) · [quick](06-13-rear-triangle-from-referees-position-quick.md) |
 | 06-14 | Rear Triangle Transitioning From Strangle To Joint Locks | [detailed](06-14-rear-triangle-strangle-to-joint-locks.md) · [quick](06-14-rear-triangle-strangle-to-joint-locks-quick.md) |
 
-## Volume 7 — Side Triangle (Yoko Sankaku)
+## Volume 7 — Side Triangle
 
 | # | Lesson | Notes |
 |---|---|---|
@@ -127,7 +127,7 @@ Each lesson has two versions:
 | 07-06 | Side Triangle While Guard Passing | [detailed](07-06-side-triangle-while-guard-passing.md) · [quick](07-06-side-triangle-while-guard-passing-quick.md) |
 | 07-07 | Side Triangle Switching To Arm Locks | [detailed](07-07-side-triangle-switching-to-arm-locks.md) · [quick](07-07-side-triangle-switching-to-arm-locks-quick.md) |
 
-## Volume 8 — Reverse Triangle (Gyaku Sankaku)
+## Volume 8 — Reverse Triangle
 
 | # | Lesson | Notes |
 |---|---|---|
@@ -139,4 +139,4 @@ Each lesson has two versions:
 
 ---
 
-Source videos and raw whisper transcripts are kept locally only (not tracked in git). Chapter boundaries within each combined volume were determined from the official chapter list on the course's DVD case artwork (not present in the video files or transcripts themselves), cross-referenced against explicit topic-transition cues in the audio ("now let's turn to...", "let's move on to...").
+Source videos and raw whisper transcripts are kept locally only (not tracked in git). Reference images (`triangle p1.jpg` / `p2.jpg` — the DVD case chapter lists used to split these notes) and the source Google Doc are also local-only.

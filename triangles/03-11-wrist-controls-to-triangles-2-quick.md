@@ -2,26 +2,25 @@
 
 ## The problem
 
-Smart opponent grabs your leg the instant you enter the clamp, blocking your extraction.
+Smart opponent knows the clamp needs bottom-leg extraction → grabs your leg to block it.
 
-## The fix
+## The fix: four-knuckle grip
 
-1. Collar tie.
-2. Grip **all four knuckles** together (legal — individual fingers aren't), turn the hand outward.
-3. Kick your leg over, into the triangle.
-4. Turn corner, knee to crotch, lower legs same direction, lower back up.
+- Individual fingers = illegal to grab. **All four knuckles together = legal.**
+- Grab all four knuckles, turn the hand outward → kick over the top and continue into the triangle even with the leg blocked.
 
-## When they block your wrist push with their elbow
+## Sequence
 
-1. Plant foot.
-2. Shrimp to the same side, beat the elbow.
-3. Throw leg over, lock as usual.
-4. Catch head, complete the turn.
+1. Enter the clamp as usual.
+2. They grab your bottom leg.
+3. Switch to collar tie + four-knuckle grip instead of fighting the leg.
+4. Turn corner, knee to groin, lower back lifted.
+5. Figure-four.
 
-## If they try to stand/move once you're set
+## Bonus: elbow blocks a wrist push
 
-Hook inside their leg — keeps minimum volume inside the triangle → tighter, faster finish.
+Plant foot, shrimp to the **same side**, beat the elbow, throw over the top and lock. Not a strength contest.
 
-## Remember
+## The theme
 
-Individual finger grips = illegal. Four-knuckle grip = legal and does the same job.
+Clamp and wrist/collar control are two entries that back each other up — when one gets shut down, switch, don't force it.

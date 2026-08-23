@@ -1,24 +1,27 @@
 # Inside Wrist Grip — Quick Reference
 
-## The grip
+## The setup
 
-1. Thumb inside opponent's wrist, at the veins.
-2. Fold your hand back — wrist bent ~90°, higher than theirs.
-3. This forces them to fight back with weak rotator-cuff muscles only (like an American lock on the wrist).
-4. Their only real escape direction is out/away — which helps you, not them.
+1. Thumb inside their wrist, at the veins.
+2. Fold your own wrist back to ~90° — not straight. Your wrist ends up higher than theirs.
 
-## Don't
+## Why it works
 
-Keep your wrist straight. A straight wrist means they're only fighting your thumb and can pull free easily. The bend is the whole mechanism.
+Bringing the hand back to centerline now only uses their small, weak rotator-cuff muscles — like being caught in an American lock. Doesn't need to look strong.
 
-## Use it from
+## Do this, in order
 
-- [ ] Flattened supine — extend arm, wrist bent, turn to side, other hand controls head, foot over neck, release grip once legs are set, finish as normal.
-- [ ] Being pushed down — wrist bent shuts opponent out completely, turn hips, knee to shoulder, pass legs over.
-- [ ] Combined with a far-side underhook — near-unstoppable, kills body locks.
-- [ ] Combined with an overtie — snatch it once overtie is on, pull around the corner.
-- [ ] Bottom half guard — hand under armpit, take the grip, proceed as normal.
+1. Inside wrist grip, arm extended, wrist bent 90°.
+2. Turn onto your side, other hand catches the head (collar tie).
+3. Foot directly over their neck.
+4. Legs in place → release the grip, don't need it anymore.
+5. Hold the head, turn corner, both feet forward, wedge behind head/neck.
+6. Figure-four, knee to groin → tight strangle.
 
-## Once your legs are locked in
+## Check
 
-Release the wrist grip — you don't need it anymore. Switch to head/arm control and finish.
+Wrist **bent back**, not straight. Straight wrist = they only fight your thumb and escape easily.
+
+## Versatility
+
+Works layered on underhooks, overties, half guard — doesn't matter what your other grip is, this one funnels into the same entry every time.

@@ -2,47 +2,42 @@
 
 ## Overview
 
-How to transition into the clamp (see previous lesson) from the three most common bottom guards: closed guard, supine butterfly guard, and half guard. Getting strong at these transitions is what turns the clamp from a nice idea into something you actually reach in live rolling — every guard you're in becomes a route to a triangle.
+Shows how to transition into the clamp from three of the most common guards — closed guard, supine butterfly guard, and half guard — so the clamp becomes reachable from almost any bottom position, not just as an abstract concept.
 
----
+## Why This Matters
 
-## From closed guard
+Being strong at shifting from a "regular" guard (which doesn't offer much toward triangles on its own) into the clamp (which makes triangles probable) directly increases how often you attempt triangles every time you train.
 
-1. Opponent has hands on your biceps. Pommel your hands to the inside **one at a time, never both at once** — going in with two hands simultaneously doesn't work.
-2. Critical detail: when you pommel in, bring your hand all the way to your **own shoulder**, not partway. If you stop short (still far from your shoulder), your opponent can simply re-pommel their hand back to your bicep and nothing has changed.
-3. With both hands and elbows now inside your opponent's hands and elbows, pull with your legs — this brings their hands down to the mat.
-4. Catch the head, put a foot on the floor, and turn onto your side — knee points down at the floor, heel points up at the ceiling.
-5. Foot to the hip, knee in front of one shoulder, other knee behind the other shoulder — you're in the clamp, head and one arm trapped.
+## From Closed Guard
 
-## From (supine) butterfly guard
+1. Opponent has hands on your biceps. Pommel one hand to the floor **first**, bringing your hand all the way to your own shoulder — never pommel only partway, or the opponent simply re-pommels their hand back to your bicep.
+2. Pommel the second hand the same way (never both hands at once — always one, then two).
+3. Pull with your legs to bring their hands to the mat.
+4. Catch the head, foot to the floor, turn onto your side — knee points down, heel points up.
+5. Foot to the hip, knee in front of one shoulder, other knee behind — the clamp is set, head and one arm trapped.
+6. Find angle, extract the bottom foot, go into the triangle.
 
-**Method A:**
-1. Put a butterfly hook inside your opponent's leg, knee pointing **out and away** (not up).
+## From Butterfly Guard
+
+1. Put one butterfly hook inside the opponent's leg, knee pointed outward (not up).
 2. Elbow inside their bicep, elbow above their head.
-3. Push your body outward with your other foot — this gets you onto your side.
-4. Knee in front of the shoulder — clamp achieved.
+3. Push outward with your foot to get onto your side.
+4. Knee in front of the shoulder → clamp achieved, same as above.
 
-**Method B (when shut down tight):**
-1. Hit a small forward shift to create space.
-2. Elbow on the inside, foot outside, turn — toes point out.
-3. Elbow-escape onto the shoulder, bring the second knee in behind — knees pinch.
-4. When the opponent yanks out, it's difficult; from here you go straight into the triangle.
+### If Shut Down Tight (Little Space)
 
-## From half guard
+Hit a forward shift for space first, elbow inside, foot outside, turn with toes pointing out, elbow-escape onto the shoulder, knee in front then knee behind — pinch and proceed as usual.
 
-Common scenario: opponent has locked their hands underneath your arm in a dominant-looking passing position.
+## From Half Guard
 
-1. Bring your hands down toward their hip, even if their knees are locked in tight.
-2. Shift your hips out — toes point outward, knee inverts, elbow goes inside their knee so your knee can land right in their hip.
-3. **Important detail:** never let your inverting knee point up toward the ceiling — it gets caught behind their leg and the elbow-escape stalls out. Point it down toward the floor instead.
-4. Even as they push forward, push back on their hip and bring your hand inside their bicep.
-5. You're now in the clamp — extract your legs and go into the triangle.
-
----
+1. Opponent has a dominant passing position (hands locked underneath your arm). Hands go down toward their hip, even if their knees are tight.
+2. Shift your hips out, toes pointing outward, invert your knee (**pointing down to the floor, never up to the ceiling** — an upward-pointing knee gets caught behind their leg and blocks the elbow escape).
+3. Elbow inside their knee, knee right into their hip.
+4. Even as they push forward, push on their hips, bring your hand inside their bicep — the clamp forms.
+5. Extract legs, go into the triangle.
 
 ## Key Takeaways
 
-- All three guards funnel into the same clamp position — master the transitions and every bottom guard becomes a triangle opportunity.
-- Closed guard pommeling rule: **one hand at a time, all the way to your own shoulder** — a partial pommel just gets re-pommeled by the opponent.
-- Half guard rule: the inverting knee must point **down to the floor**, never up to the ceiling, or it gets caught behind the opponent's leg.
-- Once in the clamp from any of the three guards, the extraction and triangle finish is identical.
+- The same clamp destination is reachable from closed guard, butterfly guard, and half guard — the entry mechanics differ slightly, but all converge on knee-in-front/knee-behind.
+- Pommeling closed-guard hands must go all the way to your own shoulder, one hand at a time — partial pommels just get re-stolen.
+- In the half-guard entry specifically, the inverted knee must point down to the floor, never up — an upward knee gets trapped and kills the elbow escape.
