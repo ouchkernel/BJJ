@@ -1,6 +1,6 @@
 # BJJ Notes
 
-Study notes built from BJJ instructional videos. Source videos are transcribed with [whisper](https://github.com/openai/whisper), then written up as structured, drillable notes — each lesson gets a **detailed** note (full write-up) and a **quick** note (terse checklist/steps for a fast mat-side refresher).
+Study notes built from BJJ instructional videos. Source videos are transcribed with [whisper.cpp](https://github.com/ggml-org/whisper.cpp), then written up as structured, drillable notes — each lesson gets a **detailed** note (full write-up) and a **quick** note (terse checklist/steps for a fast mat-side refresher).
 
 ## Topics
 
@@ -8,6 +8,7 @@ Study notes built from BJJ instructional videos. Source videos are transcribed w
 |---|---|---|
 | [ankle-locks/](ankle-locks/) | *Mastering the Move: The Ankle Lock* (39 lessons) | Complete |
 | [leglocks/](leglocks/) | *Leglocks: Enter The System* (8 volumes) | Complete |
+| [guard-retention/](guard-retention/) | *The Fastest Way To Develop An Unpassable Guard* (40 lessons) | Complete |
 | [triangles/](triangles/) | TBD | Not started |
 
 Each topic directory has its own `README.md` indexing every lesson with links to both note styles.
