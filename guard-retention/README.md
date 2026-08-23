@@ -86,6 +86,3 @@ Each lesson has two versions:
 | 08-02 | Guard Retention Against A Sit-Out Reverse Crossface | [detailed](08-02-guard-retention-against-sit-out-reverse-crossface.md) · [quick](08-02-guard-retention-against-sit-out-reverse-crossface-quick.md) |
 | 08-03 | Guard Retention Against A Reverse Underhook Sit-Out | [detailed](08-03-guard-retention-against-reverse-underhook-sit-out.md) · [quick](08-03-guard-retention-against-reverse-underhook-sit-out-quick.md) |
 
----
-
-Source videos and raw whisper transcripts are kept locally only (not tracked in git).

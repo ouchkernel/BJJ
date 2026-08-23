@@ -16,5 +16,3 @@ Each topic directory has its own `README.md` indexing every lesson with links to
 ## How these are built
 
 See [CLAUDE.md](CLAUDE.md) for the full workflow: dropping in new videos, running `scripts/transcribe.sh`, and the note-writing conventions (naming, structure, what goes in a "detailed" vs. "quick" note).
-
-`.mp4` source videos and raw `.srt` transcripts are kept local only (gitignored) — only the written notes are tracked here.

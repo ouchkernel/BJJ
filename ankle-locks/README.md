@@ -75,6 +75,3 @@ Each lesson has two versions:
 | 06-05 | Passing A Foot Into A Cross Ankle Lock | [detailed](06-05-passing-foot-into-cross-ankle-lock.md) · [quick](06-05-passing-foot-into-cross-ankle-lock-quick.md) |
 | 06-06 | Top Entry To Ashi Garami Controlling 2 Legs | [detailed](06-06-top-entry-ashi-garami-two-legs.md) · [quick](06-06-top-entry-ashi-garami-two-legs-quick.md) |
 
----
-
-Source videos and raw whisper transcripts are kept locally only (not tracked in git).

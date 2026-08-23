@@ -137,6 +137,3 @@ Each lesson has two versions:
 | 08-04 | Entering Reverse Triangle 3 | [detailed](08-04-entering-reverse-triangle-reversals.md) · [quick](08-04-entering-reverse-triangle-reversals-quick.md) |
 | 08-05 | Reverse Triangle To Armlocks | [detailed](08-05-reverse-triangle-to-armlocks.md) · [quick](08-05-reverse-triangle-to-armlocks-quick.md) |
 
----
-
-Source videos and raw whisper transcripts are kept locally only (not tracked in git). Reference images (`triangle p1.jpg` / `p2.jpg` — the DVD case chapter lists used to split these notes) and the source Google Doc are also local-only.
