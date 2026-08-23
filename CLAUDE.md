@@ -22,10 +22,12 @@ CLAUDE.md                 this file
 
 1. Drop the new `.mp4` files into a topic directory (existing one, or a new one at repo root — `triangles/` already exists and is empty, ready to use).
 2. Transcribe: `scripts/transcribe.sh <topic-dir> [model]`
-   - Defaults to the `small.en` whisper model on CPU (~0.3x realtime — a 20min video takes ~6min). MPS/GPU is broken for whisper on this machine (NaN logits crash) — the script hardcodes `--device cpu`, don't change that.
-   - Use `medium.en` as the second arg if `small.en` is mangling technique-specific terms too often (roughly 3-4x slower).
+   - Uses `whisper-cli` (whisper.cpp, `brew install whisper-cpp`) with Metal GPU acceleration — measured >30x realtime including the ffmpeg conversion step, so a full course transcribes in minutes, not hours. Just run it in the foreground.
+   - Each `.mp4` is converted to a temporary 16kHz mono wav first (whisper.cpp only accepts flac/mp3/ogg/wav) and cleaned up after.
+   - Defaults to the `small.en` model. Use `medium.en` as the second arg if `small.en` is mangling technique-specific terms too often.
+   - Models are ggml `.bin` files, auto-downloaded on first use to `~/.cache/whisper-cpp-models/` (outside the repo — too large for git). The script verifies the download size against the server's `Content-Length` and deletes+fails on a truncated download rather than silently leaving a corrupt model file.
    - Skips any `.mp4` that already has a matching `.srt` (in `transcripts/` or alongside it), so it's safe to re-run after dropping in new files.
-   - For anything longer than a few videos, run it in the background (`nohup ... &`) rather than blocking — a full course (~5hrs audio) takes about 80-90min.
+   - This replaced an earlier `openai-whisper` (PyTorch) version of the script — that one only ran at ~0.3x realtime on CPU because its MPS/GPU backend crashes with NaN logits on this machine. whisper.cpp's Metal backend is a different codepath and does not have that bug.
 3. Generate notes per lesson from each transcript in `transcripts/*.srt`. Two files per lesson, both derived **only** from the transcript content (don't invent details):
    - `{prefix}-{slug}.md` — **detailed**: H1 title, `## Overview`, then structured sections as the content demands (grip mechanics, sequences, drilling notes, common mistakes, decision points, etc.), ending with a bulleted `## Key Takeaways`.
    - `{prefix}-{slug}-quick.md` — **quick**: H1 title + " — Quick Reference", numbered action steps, checklists, short tables, no prose padding. Same content as the detailed note, compressed to what you'd actually glance at mat-side.

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Batch-transcribe every .mp4 in a directory with whisper, skipping files
+# Batch-transcribe every .mp4 in a directory with whisper.cpp, skipping files
 # that already have an .srt (either alongside the mp4 or in transcripts/).
 #
 # Usage:
@@ -12,14 +12,16 @@
 # Output: <directory>/transcripts/<same-basename>.srt
 # Log:    <directory>/transcripts/transcribe.log
 #
-# Notes:
-# - Runs on CPU. whisper's MPS (Apple GPU) backend is currently broken for
-#   this model class (produces NaN/inf logits and crashes) - do not add
-#   --device mps.
-# - small.en is a good speed/accuracy default for a single voice explaining
-#   technique (~0.3x realtime on Apple Silicon CPU, i.e. a 20min video takes
-#   about 6min). Use medium.en if small.en is mangling technical terms too
-#   often, at roughly 3-4x the runtime.
+# Requires: whisper-cli (brew install whisper-cpp) and ffmpeg.
+# whisper-cli only accepts flac/mp3/ogg/wav, so each mp4 is converted to a
+# temporary 16kHz mono wav first (whisper.cpp's expected input format).
+# Runs on the Mac's GPU via Metal automatically (no MPS bugs here - that
+# issue was specific to openai-whisper's PyTorch backend, not whisper.cpp).
+#
+# Models are ggml .bin files, downloaded on first use to
+# ~/.cache/whisper-cpp-models/ (not part of this repo - too large for git).
+# small.en is a good speed/accuracy default for a single voice explaining
+# technique. Use medium.en if small.en is mangling technical terms too often.
 
 set -uo pipefail
 
@@ -31,10 +33,31 @@ if [ ! -d "$DIR" ]; then
   exit 1
 fi
 
+MODEL_DIR="$HOME/.cache/whisper-cpp-models"
+MODEL_PATH="$MODEL_DIR/ggml-${MODEL}.bin"
+
+if [ ! -f "$MODEL_PATH" ]; then
+  mkdir -p "$MODEL_DIR"
+  URL="https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-${MODEL}.bin"
+  echo "Model not found locally, downloading: $URL"
+  EXPECTED=$(curl -sIL "$URL" | grep -i '^content-length' | tail -1 | tr -d '\r' | awk '{print $2}')
+  curl -fL -o "$MODEL_PATH" "$URL"
+  ACTUAL=$(stat -f%z "$MODEL_PATH" 2>/dev/null || stat -c%s "$MODEL_PATH")
+  if [ -n "$EXPECTED" ] && [ "$EXPECTED" != "$ACTUAL" ]; then
+    echo "Download incomplete (expected $EXPECTED bytes, got $ACTUAL) - removing partial file." >&2
+    rm -f "$MODEL_PATH"
+    exit 1
+  fi
+fi
+
 cd "$DIR"
 mkdir -p transcripts
 LOG="transcripts/transcribe.log"
 : > "$LOG"
+
+TMPDIR_WAV=$(mktemp -d)
+TMPWAV="$TMPDIR_WAV/audio.wav"
+trap 'rm -rf "$TMPDIR_WAV"' EXIT
 
 shopt -s nullglob
 for f in *.mp4; do
@@ -45,7 +68,8 @@ for f in *.mp4; do
   fi
   echo "=== START: $f ===" | tee -a "$LOG"
   date | tee -a "$LOG"
-  whisper "$f" --model "$MODEL" --device cpu --output_dir transcripts --output_format srt >> "$LOG" 2>&1
+  ffmpeg -y -i "$f" -ar 16000 -ac 1 -c:a pcm_s16le "$TMPWAV" -loglevel error >> "$LOG" 2>&1
+  whisper-cli -m "$MODEL_PATH" -f "$TMPWAV" -osrt -of "transcripts/${base}" -l en >> "$LOG" 2>&1
   echo "=== DONE: $f ===" | tee -a "$LOG"
 done
 
