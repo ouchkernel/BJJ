@@ -20,13 +20,19 @@
 #
 # Models are ggml .bin files, downloaded on first use to
 # ~/.cache/whisper-cpp-models/ (not part of this repo - too large for git).
-# small.en is a good speed/accuracy default for a single voice explaining
-# technique. Use medium.en if small.en is mangling technical terms too often.
+# Defaults to large-v3-turbo: strong accuracy on BJJ jargon, fast on Metal
+# GPU (~6s for a 2.3min clip incl. model load). Plain large-v3 was tried
+# first and rejected - on the same test clip it hallucinated a looping
+# repeated line that small.en didn't produce; large-v3-turbo didn't
+# reproduce that failure. Both large variants are multilingual only (no
+# .en suffix exists) - the script pins -l en explicitly so it doesn't
+# spend time auto-detecting language. Pass small.en/medium.en as the
+# second arg for an even faster, lower-accuracy pass instead.
 
 set -uo pipefail
 
 DIR="${1:?Usage: transcribe.sh <directory> [model]}"
-MODEL="${2:-small.en}"
+MODEL="${2:-large-v3-turbo}"
 
 if [ ! -d "$DIR" ]; then
   echo "Directory not found: $DIR" >&2

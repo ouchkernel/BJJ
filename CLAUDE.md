@@ -24,7 +24,7 @@ CLAUDE.md                 this file
 2. Transcribe: `scripts/transcribe.sh <topic-dir> [model]`
    - Uses `whisper-cli` (whisper.cpp, `brew install whisper-cpp`) with Metal GPU acceleration — measured >30x realtime including the ffmpeg conversion step, so a full course transcribes in minutes, not hours. Just run it in the foreground.
    - Each `.mp4` is converted to a temporary 16kHz mono wav first (whisper.cpp only accepts flac/mp3/ogg/wav) and cleaned up after.
-   - Defaults to the `small.en` model. Use `medium.en` as the second arg if `small.en` is mangling technique-specific terms too often.
+   - Defaults to `large-v3-turbo` — best accuracy/speed tradeoff tested so far for BJJ jargon. Plain `large-v3` was tried and rejected: on the same test clip it hallucinated a looping repeated line that neither `small.en` nor `large-v3-turbo` produced. Pass `small.en`/`medium.en` as the second arg for an even faster, lower-accuracy pass.
    - Models are ggml `.bin` files, auto-downloaded on first use to `~/.cache/whisper-cpp-models/` (outside the repo — too large for git). The script verifies the download size against the server's `Content-Length` and deletes+fails on a truncated download rather than silently leaving a corrupt model file.
    - Skips any `.mp4` that already has a matching `.srt` (in `transcripts/` or alongside it), so it's safe to re-run after dropping in new files.
    - This replaced an earlier `openai-whisper` (PyTorch) version of the script — that one only ran at ~0.3x realtime on CPU because its MPS/GPU backend crashes with NaN logits on this machine. whisper.cpp's Metal backend is a different codepath and does not have that bug.
