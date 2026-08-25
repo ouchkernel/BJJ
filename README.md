@@ -10,6 +10,7 @@ Study notes built from BJJ instructional videos. Source videos are transcribed w
 | [leglocks/](leglocks/) | *Leglocks: Enter The System* (8 volumes) | Complete |
 | [guard-retention/](guard-retention/) | *The Fastest Way To Develop An Unpassable Guard* (40 lessons) | Complete |
 | [triangles/](triangles/) | *Triangles: Enter The System* (91 lessons) | Complete |
+| [back-attacks/](back-attacks/) | *Back Attacks: Enter The System* (61 lessons) | Complete |
 
 Each topic directory has its own `README.md` indexing every lesson with links to both note styles.
 
